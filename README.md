@@ -2,4 +2,6 @@
 
 ## Data Types  
 __1.__ Numbers  
-__2.__ Strings
+__2.__ Strings  
+__3.__ List  
+__4.__ Dictionary
