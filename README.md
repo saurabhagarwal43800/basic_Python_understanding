@@ -4,4 +4,6 @@
 __1.__ Numbers  
 __2.__ Strings  
 __3.__ List  
-__4.__ Dictionary
+__4.__ Dictionary  
+__5.__ Tuples  
+__6.__ Sets
