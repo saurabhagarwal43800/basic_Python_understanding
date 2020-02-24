@@ -6,4 +6,7 @@ __2.__ Strings
 __3.__ List  
 __4.__ Dictionary  
 __5.__ Tuples  
-__6.__ Sets
+__6.__ Sets 
+__7.__ Boolean  
+
+## I/O Files(File Handling)
