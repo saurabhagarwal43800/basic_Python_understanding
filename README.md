@@ -1,6 +1,6 @@
 # Basic Python Understanding with Examples  
 
-## Data Types  
+## A. Data Types  
 __1.__ Numbers  
 __2.__ Strings  
 __3.__ List  
@@ -9,4 +9,10 @@ __5.__ Tuples
 __6.__ Sets 
 __7.__ Boolean  
 
-## I/O Files(File Handling)
+## B. I/O Files(File Handling)  
+
+## C. Useful Operators
+__1.__ Comparison Operators(!=, ==, <, >, <=, >=)  
+__2.__ Logical Operators(and, or, not)
+
+## D. Conditional Statement(If-else and elif)  
