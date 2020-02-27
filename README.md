@@ -6,13 +6,11 @@ __2.__ Strings
 __3.__ List  
 __4.__ Dictionary  
 __5.__ Tuples  
-__6.__ Sets 
-__7.__ Boolean  
+__6.__ Sets   
+__7.__ Boolean    
 
-## B. I/O Files(File Handling)  
+## B. I/O Files(File Handling)    
 
-## C. Useful Operators
-__1.__ Comparison Operators(!=, ==, <, >, <=, >=)  
-__2.__ Logical Operators(and, or, not)
+## C. Useful Operators(min, max, import)  
 
 ## D. Conditional Statement(If-else and elif)  
