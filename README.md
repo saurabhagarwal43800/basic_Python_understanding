@@ -13,4 +13,8 @@ __7.__ Boolean
 
 ## C. Useful Operators(min, max, import)  
 
-## D. Conditional Statement(If-else and elif)  
+## D. Conditional Statement(If-else and elif) 
+
+## E. Loops  
+__1.__ For  
+__2.__ While  
