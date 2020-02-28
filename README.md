@@ -17,4 +17,6 @@ __7.__ Boolean
 
 ## E. Loops  
 __1.__ For  
-__2.__ While  
+__2.__ While 
+
+## F. List Comprehensions  
