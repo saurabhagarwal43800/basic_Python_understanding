@@ -24,5 +24,7 @@ __2.__ While
 ## G. Args & Kwargs
 
 ## H. OOPS Concepts  
-__1.__ Inheritance  
-__2.__ Polymorphism
+__1.__ Class      
+__2.__ Objects         
+__3.__ Inheritance     
+__4.__ Polymorphism      
