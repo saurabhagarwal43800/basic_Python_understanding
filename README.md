@@ -27,4 +27,8 @@ __2.__ While
 __1.__ Class      
 __2.__ Objects         
 __3.__ Inheritance     
-__4.__ Polymorphism      
+__4.__ Polymorphism  
+  
+## I. Decorators  
+
+## J. Iterators and Generators  
