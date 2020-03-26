@@ -31,4 +31,8 @@ __4.__ Polymorphism
   
 ## I. Decorators  
 
-## J. Iterators and Generators  
+## J. Iterators and Generators 
+  
+## K. Collections  
+__1.__ Counter  
+
