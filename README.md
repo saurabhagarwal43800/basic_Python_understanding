@@ -35,4 +35,7 @@ __4.__ Polymorphism
   
 ## K. Collections  
 __1.__ Counter  
+__2.__ defaultdict  
+__3.__ OrderedDict  
+__4.__ namedtuple  
 
