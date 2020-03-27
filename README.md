@@ -38,4 +38,9 @@ __1.__ Counter
 __2.__ defaultdict  
 __3.__ OrderedDict  
 __4.__ namedtuple  
+  
+## L. Advanced Python Modules  
+__1.__ datetime  
+__2.__ pdb(Python Debugger)  
+__3.__ timeit(Timing your Code)  
 
