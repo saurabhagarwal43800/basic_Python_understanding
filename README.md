@@ -29,17 +29,19 @@ __2.__ Objects
 __3.__ Inheritance     
 __4.__ Polymorphism  
   
-## I. Decorators  
+## I. Exception Handling  
 
-## J. Iterators and Generators 
+## J. Decorators  
+
+## K. Iterators and Generators 
   
-## K. Collections  
+## L. Collections  
 __1.__ Counter  
 __2.__ defaultdict  
 __3.__ OrderedDict  
 __4.__ namedtuple  
   
-## L. Advanced Python Modules  
+## M. Advanced Python Modules  
 __1.__ datetime  
 __2.__ pdb(Python Debugger)  
 __3.__ timeit(Timing your Code)  
