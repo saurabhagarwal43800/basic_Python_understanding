@@ -45,4 +45,16 @@ __4.__ namedtuple
 __1.__ datetime  
 __2.__ pdb(Python Debugger)  
 __3.__ timeit(Timing your Code)  
+__4.__ Regular Expressions  
+__5.__ StringIO  
+
+## N. Advanced Python Objects  
+__1.__ Advanced Numbers  
+__2.__ Advanced Strings  
+__3.__ Advanced Sets  
+__4.__ Advanced Dictionaries  
+__5.__ Advanced Lists  
+__6.__ Advanced Python Object Test  
+  
+
 
