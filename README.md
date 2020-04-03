@@ -56,5 +56,11 @@ __4.__ Advanced Dictionaries
 __5.__ Advanced Lists  
 __6.__ Advanced Python Object Test  
   
+## O. GUI  
+__1.__ Interact, Interactive and Display functionality  
+__2.__ Widget Basics  
+__3.__ Widget Styling and Layout  
+
+  
 
 
