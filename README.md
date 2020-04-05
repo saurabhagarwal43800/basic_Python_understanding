@@ -60,6 +60,9 @@ __6.__ Advanced Python Object Test
 __1.__ Interact, Interactive and Display functionality  
 __2.__ Widget Basics  
 __3.__ Widget Styling and Layout  
+__4.__ Widget List
+__5.__ Widget Events  
+__6.__ Advanced Widget List
 
   
 
