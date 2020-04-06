@@ -62,7 +62,11 @@ __2.__ Widget Basics
 __3.__ Widget Styling and Layout  
 __4.__ Widget List
 __5.__ Widget Events  
-__6.__ Advanced Widget List
+__6.__ Advanced Widget List  
+
+## P. Pandas  
+__1.__ Loading data with Pandas and use of Dataframe  
+__2.__ loc, iloc and ix
 
   
 
