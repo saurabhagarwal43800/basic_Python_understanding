@@ -66,7 +66,11 @@ __6.__ Advanced Widget List
 
 ## P. Pandas  
 __1.__ Loading data with Pandas and use of Dataframe  
-__2.__ loc, iloc and ix
+__2.__ loc, iloc and ix  
+
+## Q. Numpy Arrays  
+__1.__ One-D Array  
+__2.__ Two-D Array  
 
   
 
